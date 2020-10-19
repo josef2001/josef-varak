@@ -29,7 +29,7 @@ class UserVarakJosef{
         $this->heightVarakJosef = $heightVarakJosef;
     }
     
-    protected $habitsVarakJosef;
+    protected $HabitsVarakJosef;
    
     protected $AutoVarakJosef;
   
