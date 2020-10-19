@@ -9,24 +9,24 @@
 declare (strict_types=1);
 class UserVarakJosef{
     
-    private $jmenoVarakJosef;
+    private $JmenoVarakJosef;
     /**
      * 
-     * @param string $jmenoVarakJosef
+     * @param string $JmenoVarakJosef
      * @return string 
      */
-    public function setjmenoVarakJosef(string $jmenoVarakJosef){
-        $this->jmenoVarakJosef =$jmenoVarakJosef;
+    public function setJmenoVarakJosef(string $JmenoVarakJosef){
+        $this->JmenoVarakJosef =$JmenoVarakJosef;
     }
    
-    private $heightVarakJosef;
+    private $HeightVarakJosef;
     /**
      * 
-     * @param int $heightVarakJosef
+     * @param int $HeightVarakJosef
      * @return int 
      */
-    public function setheightVarakJosef(int $heightVarakJosef) {
-        $this->heightVarakJosef = $heightVarakJosef;
+    public function setHeightVarakJosef(int $HeightVarakJosef) {
+        $this->HeightVarakJosef = $HeightVarakJosef;
     }
     
     protected $HabitsVarakJosef;
